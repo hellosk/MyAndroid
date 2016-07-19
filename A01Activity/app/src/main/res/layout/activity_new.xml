@@ -12,12 +12,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< HEAD
         android:id="@+id/newTextView"
-=======
-        android:text="This is new activity!!!"
-        android:id="@+id/textView2"
->>>>>>> ea21369461af44683de8a520b955f74748f329fa
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true" />
 
