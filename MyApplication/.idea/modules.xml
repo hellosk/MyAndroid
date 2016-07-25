@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a01activity/a01activity.iml" filepath="$PROJECT_DIR$/a01activity/a01activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a02service/a02service.iml" filepath="$PROJECT_DIR$/a02service/a02service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a03boardcastreceiver/a03boardcastreceiver.iml" filepath="$PROJECT_DIR$/a03boardcastreceiver/a03boardcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a04contentprovider/a04contentprovider.iml" filepath="$PROJECT_DIR$/a04contentprovider/a04contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':app', ':a01activity', ':a02service', ':a03boardcastreceiver', ':a04contentprovider'
