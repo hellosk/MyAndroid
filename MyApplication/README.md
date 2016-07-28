@@ -61,3 +61,12 @@ unregisterReceiver()
 
 ##举例
 读取联系人数据 getContentResolver
+
+
+# Intent
+
+##启动activity
+1.通过显式intent，启动具体某一个activity
+2.通过隐式intent，由操作系统过滤出一类activity供用户选择启动
+
+##调用系统的activity举例
