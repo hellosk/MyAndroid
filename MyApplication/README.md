@@ -70,3 +70,10 @@ unregisterReceiver()
 2.通过隐式intent，由操作系统过滤出一类activity供用户选择启动
 
 ##调用系统的activity举例
+
+
+# Layout
+
+##创建和移除控件
+1.在相对布局中动态添加按钮
+2.移除按钮
