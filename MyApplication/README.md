@@ -77,3 +77,11 @@ unregisterReceiver()
 ##创建和移除控件
 1.在相对布局中动态添加按钮
 2.移除按钮
+
+# ListView
+
+##ListView
+1.使用ArrayAdapter填充ListView
+2.自定义ArrayAdapter中的内容
+3.ListView成员的点击监听
+4.Toast的使用
