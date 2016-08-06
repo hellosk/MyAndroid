@@ -1,6 +1,5 @@
 package com.hisunke.a07listview;
 
-import android.provider.ContactsContract;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -31,7 +30,8 @@ public class MainActivity extends AppCompatActivity {
         }
         */
 
-        adapter =  new ArrayAdapter<ListCellData>(this, android.R.layout.simple_list_item_1);
+       // adapter =  new ArrayAdapter<ListCellData>(this, android.R.layout.simple_list_item_1);
+        adapter =  new ArrayAdapter<ListCellData>(this, R.layout.list_cell);
 
         listView = (ListView)findViewById(R.id.listView);
         listView.setAdapter(adapter);

@@ -80,8 +80,14 @@ unregisterReceiver()
 
 # ListView
 
-##ListView
+##简单列表
 1.使用ArrayAdapter填充ListView
 2.自定义ArrayAdapter中的内容
 3.ListView成员的点击监听
 4.Toast的使用
+
+##图文列表
+1.创建一个扩展至BaseAdapter的类，用来填充ListView
+2.创建一个类管理ListView单元的图文数据
+3.在BaseAdapter中添加图文数据，重写getView()方法，将图文设置到单元布局中
+4.使用LayoutInflater创建布局的方法

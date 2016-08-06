@@ -1,8 +1,6 @@
 package com.hisunke.a07listview;
 
-/**
- * Created by SDT13235 on 2016/8/4.
- */
+
 public class ListCellData {
 
     private String name = "james";
