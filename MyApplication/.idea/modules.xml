@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/a05intent/a05intent.iml" filepath="$PROJECT_DIR$/a05intent/a05intent.iml" />
       <module fileurl="file://$PROJECT_DIR$/a06layout/a06layout.iml" filepath="$PROJECT_DIR$/a06layout/a06layout.iml" />
       <module fileurl="file://$PROJECT_DIR$/a07listview/a07listview.iml" filepath="$PROJECT_DIR$/a07listview/a07listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a08uicontrols/a08uicontrols.iml" filepath="$PROJECT_DIR$/a08uicontrols/a08uicontrols.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
