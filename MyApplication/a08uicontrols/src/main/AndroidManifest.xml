@@ -21,7 +21,11 @@
         <activity android:name=".UsingTimePicker" />
         <activity android:name=".UsingSpinner" />
         <activity android:name=".UsingProgressBar" />
-        <activity android:name=".UsingAutoCompleteTextView"></activity>
+        <activity android:name=".UsingAutoCompleteTextView" />
+        <activity android:name=".UsingSeekBar" />
+        <activity android:name=".UsingGridView" />
+        <activity android:name=".UsingProgressDialog" />
+        <activity android:name=".UsingNotification"></activity>
     </application>
 
 </manifest>
