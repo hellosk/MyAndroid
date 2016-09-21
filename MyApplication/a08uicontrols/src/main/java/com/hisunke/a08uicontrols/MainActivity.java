@@ -29,6 +29,10 @@ public class MainActivity extends AppCompatActivity {
         adapter.add(new MainListCellData("Spinner", this, new Intent(this, UsingSpinner.class)));
         adapter.add(new MainListCellData("ProgressBar", this, new Intent(this, UsingProgressBar.class)));
         adapter.add(new MainListCellData("AutoCompleteTextView", this, new Intent(this, UsingAutoCompleteTextView.class)));
+        adapter.add(new MainListCellData("SeekBar", this, new Intent(this, UsingSeekBar.class)));
+        adapter.add(new MainListCellData("GridView", this, new Intent(this, UsingGridView.class)));
+        adapter.add(new MainListCellData("ProgressDialog", this, new Intent(this, UsingProgressDialog.class)));
+        adapter.add(new MainListCellData("Notification", this, new Intent(this, UsingNotification.class)));
 
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {

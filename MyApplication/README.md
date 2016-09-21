@@ -128,3 +128,20 @@ unregisterReceiver()
 2.创建ArrayAdapter并填充到MutiAutoCompleteTextView
 3.调用setTokenizer()设置MutiAutoCompleteTextView的分隔符
 
+##SeekBar
+1.调用setOnSeekBarChangeListener()设置SeekBar的监听器
+2.在进度发生变化的时候会调用onProgressChanged()
+
+##GridView
+1.新建1个Adapter，然后调用setAdapter()关联Adapter，最后往Adapter里面添加数据
+2.可以调用setNumColumns()来设置网格的列数
+
+##ProgressDialog
+1.调用ProgressDialog.show()来创建并显示
+2.通过1个线程来控制关闭ProgressDialog
+
+##Notification
+1.调用getSystemService()获取系统的通知管理器
+2.创建Notification中的Builder,设置参数
+3.调用通知管理器的notify()来显示通知，注意参数是builder.build()
+
